@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="youtube" type="JavaScript" />
       <mapping pattern="Quiz1" type="Vue.js" />
     </extensionMap>
   </component>
